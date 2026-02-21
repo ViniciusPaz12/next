@@ -1,0 +1,28 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^16.1.6",
+    "node": "^25.6.1",
+    "node-bin-setup": "^1.1.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusPaz12/next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ViniciusPaz12/next/issues"
+  },
+  "homepage": "https://github.com/ViniciusPaz12/next#readme"
+}
